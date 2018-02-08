@@ -1,0 +1,1347 @@
+﻿Log file open, 02/08/18 20:44:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: UECollisions
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2111685023) SRandInit(2111685023).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.225607
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../Projects/UECollisions/Binaries/Win64/UE4Editor-UECollisions.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/RawInput/Binaries/Win64/UE4Editor-RawInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.08-19.44.44:392][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.08-19.44.44:392][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.08-19.44.44:413][  0]LogInit: Computer: PALCRAFT-PC
+[2018.02.08-19.44.44:413][  0]LogInit: User: Palcraft
+[2018.02.08-19.44.44:413][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.08-19.44.44:413][  0]LogInit: High frequency timer resolution =1.945314 MHz
+[2018.02.08-19.44.44:414][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2018.02.08-19.44.44:414][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.08-19.44.44:414][  0]LogMemory: Process Physical Memory: 274.49 MB used, 274.49 MB peak
+[2018.02.08-19.44.44:414][  0]LogMemory: Process Virtual Memory: 269.75 MB used, 269.75 MB peak
+[2018.02.08-19.44.44:414][  0]LogMemory: Physical Memory: 5620.16 MB used,  10597.61 MB free, 16217.77 MB total
+[2018.02.08-19.44.44:414][  0]LogMemory: Virtual Memory: 678.08 MB used,  10597.61 MB free, 134217728.00 MB total
+[2018.02.08-19.44.44:682][  0]LogInit: Using OS detected language (es-ES).
+[2018.02.08-19.44.44:682][  0]LogInit: Using OS detected locale (es-ES).
+[2018.02.08-19.44.44:686][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2018.02.08-19.44.44:950][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.08-19.44.45:414][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.08-19.44.45:482][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 940MX' (Feature Level 11_0)
+[2018.02.08-19.44.45:482][  0]LogD3D11RHI:       4065/0/8108 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.08-19.44.45:497][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2018.02.08-19.44.45:497][  0]LogD3D11RHI:       128/0/8108 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.08-19.44.45:500][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.08-19.44.45:500][  0]LogD3D11RHI:       0/0/8108 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.08-19.44.45:500][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.08-19.44.45:507][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.08-19.44.45:507][  0]LogD3D11RHI:     GPU DeviceId: 0x134d (for the marketing name, search the web for "GPU Device Id")
+[2018.02.08-19.44.45:507][  0]LogWindows: EnumDisplayDevices:
+[2018.02.08-19.44.45:507][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2018.02.08-19.44.45:508][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.02.08-19.44.45:508][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.02.08-19.44.45:508][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.08-19.44.45:508][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 940MX
+[2018.02.08-19.44.45:508][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.08-19.44.45:508][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.08-19.44.45:508][  0]LogRHI: Texture pool is 2846 MB (70% of 4065 MB)
+[2018.02.08-19.44.45:538][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.08-19.44.45:555][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.08-19.44.45:557][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (../../../../../Projects/UECollisions/Intermediate/Shaders/WorkingDirectory/4192/).
+[2018.02.08-19.44.45:557][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Palcraft/AppData/Local/Temp/UnrealShaderWorkingDir/440B132F49D5580FC46524AC290403E2/'.
+[2018.02.08-19.44.45:557][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.08-19.44.47:240][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.08-19.44.47:329][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.08-19.44.47:416][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.08-19.44.47:502][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.08-19.44.47:588][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.08-19.44.47:694][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.08-19.44.47:789][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.08-19.44.47:887][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.08-19.44.47:965][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.08-19.44.48:051][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.08-19.44.48:143][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.08-19.44.48:239][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.08-19.44.48:341][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.08-19.44.48:442][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.08-19.44.48:620][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.08-19.44.48:620][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.08-19.44.48:718][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.08-19.44.48:792][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.08-19.44.48:950][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.08-19.44.49:000][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.08-19.44.49:092][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.08-19.44.49:191][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.08-19.44.49:284][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.08-19.44.49:400][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.08-19.44.49:400][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.08-19.44.50:261][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.08-19.44.50:365][  0]LogDerivedDataCache: Loaded boot cache 0.10s 78MB C:/Users/Palcraft/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.08-19.44.50:365][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Palcraft/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.08-19.44.50:366][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/UECollisions/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.08-19.44.50:366][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.08-19.44.50:366][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/UECollisions/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.08-19.44.50:366][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.08-19.44.50:396][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.08-19.44.50:408][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Palcraft/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.08-19.44.50:424][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.08-19.44.50:425][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.08-19.44.50:426][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.08-19.44.50:426][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.08-19.44.51:037][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.08-19.44.51:633][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.08-19.44.51:709][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.08-19.44.51:709][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.08-19.44.51:709][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.08-19.44.51:709][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.08-19.44.51:709][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.08-19.44.51:763][  0]LogNetVersion: UECollisions , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1857078133)
+[2018.02.08-19.44.52:044][  0]LogAssetRegistry: FAssetRegistry took 0.0297 seconds to start up
+[2018.02.08-19.44.52:962][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.123416 seconds
+[2018.02.08-19.44.52:972][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.08-19.44.52:972][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.08-19.44.52:972][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.08-19.44.53:098][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.08-19.44.58:652][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.08-19.44.58:774][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.08-19.45.00:084][  0]LogMaterial: Missing cached shader map for material M_Vehicle_Sedan, compiling. 
+[2018.02.08-19.45.00:310][  0]LogMaterial: Missing cached shader map for material M_Vehicle_Sedan, compiling. 
+[2018.02.08-19.45.00:500][  0]LogMaterial: Missing cached shader map for material AntiAliasedTextMaterialTranslucent, compiling. 
+[2018.02.08-19.45.01:281][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.08-19.45.02:501][  0]SourceControl: El control de código fuente está desactivado
+[2018.02.08-19.45.02:502][  0]SourceControl: El control de código fuente está desactivado
+[2018.02.08-19.45.02:648][  0]SourceControl: El control de código fuente está desactivado
+[2018.02.08-19.45.02:793][  0]SourceControl: El control de código fuente está desactivado
+[2018.02.08-19.45.05:221][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.08-19.45.05:997][  0]LogOcInput: OculusInput pre-init called
+[2018.02.08-19.45.06:784][  0]LogEngine: Initializing Engine...
+[2018.02.08-19.45.06:790][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.08-19.45.07:405][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.08-19.45.07:405][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.08-19.45.07:761][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.08-19.45.07:781][  0]LogInit: XAudio2 using '24EA53 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.08-19.45.07:820][  0]LogInit: FAudioDevice initialized.
+[2018.02.08-19.45.07:939][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/Palcraft/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.08-19.45.07:962][  0]LogInit: Texture streaming: Enabled
+[2018.02.08-19.45.08:247][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.08-19.45.08:605][  0]LogInit: Transaction tracking system initialized
+[2018.02.08-19.45.09:484][  0]BlueprintLog: New page: Cargar el editor
+[2018.02.08-19.45.12:215][  0]LocalizationService: Localization service is disabled
+[2018.02.08-19.45.14:918][  0]LogConsoleResponse: Display: 
+[2018.02.08-19.45.15:414][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.08-19.45.15:414][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.08-19.45.15:414][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.08-19.45.16:110][  0]LogFileCache: Scanning file cache for directory 'C:/Projects/UECollisions/Content/' took 0.01s
+[2018.02.08-19.45.18:913][  0]SourceControl: El control de código fuente está desactivado
+[2018.02.08-19.45.18:915][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Epic Games/UE_4.18/FeaturePacks/StarterContent.upack)
+[2018.02.08-19.45.18:932][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.02.08-19.45.18:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.02.08-19.45.18:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.02.08-19.45.18:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.02.08-19.45.18:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.02.08-19.45.18:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.02.08-19.45.18:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.02.08-19.45.19:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.02.08-19.45.19:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.02.08-19.45.19:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.02.08-19.45.19:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.02.08-19.45.19:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.02.08-19.45.19:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.02.08-19.45.19:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.02.08-19.45.19:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.02.08-19.45.19:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.02.08-19.45.19:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.02.08-19.45.19:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.02.08-19.45.19:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Fire01.uasset"
+[2018.02.08-19.45.19:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.02.08-19.45.19:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.02.08-19.45.19:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.02.08-19.45.19:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Light01.uasset"
+[2018.02.08-19.45.19:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.02.08-19.45.19:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Light02.uasset"
+[2018.02.08-19.45.19:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.02.08-19.45.19:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.02.08-19.45.19:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.02.08-19.45.19:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.02.08-19.45.19:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.02.08-19.45.19:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.02.08-19.45.19:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.02.08-19.45.19:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.02.08-19.45.19:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.02.08-19.45.19:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Steam01.uasset"
+[2018.02.08-19.45.19:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.02.08-19.45.19:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.02.08-19.45.19:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.02.08-19.45.19:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.02.08-19.45.19:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.02.08-19.45.19:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.02.08-19.45.19:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.02.08-19.45.19:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.02.08-19.45.19:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.02.08-19.45.19:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.02.08-19.45.19:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.02.08-19.45.19:475][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.02.08-19.45.19:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.02.08-19.45.19:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.02.08-19.45.19:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.02.08-19.45.19:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.02.08-19.45.19:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.02.08-19.45.19:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.02.08-19.45.19:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Projects/UECollisions/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.02.08-19.45.19:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.02.08-19.45.19:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Projects/UECollisions/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.02.08-19.45.19:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.02.08-19.45.19:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Projects/UECollisions/Content/StarterContent/Maps/StarterMap.umap"
+[2018.02.08-19.45.19:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.02.08-19.45.19:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.02.08-19.45.19:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.02.08-19.45.19:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.02.08-19.45.19:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.02.08-19.45.19:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.02.08-19.45.19:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.02.08-19.45.19:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.02.08-19.45.19:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.02.08-19.45.19:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.02.08-19.45.19:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.02.08-19.45.19:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.02.08-19.45.19:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.02.08-19.45.19:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.02.08-19.45.19:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.02.08-19.45.19:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.02.08-19.45.19:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.02.08-19.45.19:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.02.08-19.45.19:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.02.08-19.45.19:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.02.08-19.45.19:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.02.08-19.45.19:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.02.08-19.45.19:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.02.08-19.45.19:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.02.08-19.45.19:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.02.08-19.45.19:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.02.08-19.45.19:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.02.08-19.45.19:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.02.08-19.45.19:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.02.08-19.45.19:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.02.08-19.45.19:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.02.08-19.45.19:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.02.08-19.45.19:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.02.08-19.45.20:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.02.08-19.45.20:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.02.08-19.45.20:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.02.08-19.45.20:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.02.08-19.45.20:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.02.08-19.45.20:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.02.08-19.45.20:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.02.08-19.45.20:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.02.08-19.45.20:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.02.08-19.45.20:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.02.08-19.45.20:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.02.08-19.45.20:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.02.08-19.45.20:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.02.08-19.45.20:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.02.08-19.45.20:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.02.08-19.45.20:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.02.08-19.45.20:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.02.08-19.45.20:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.02.08-19.45.20:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.02.08-19.45.20:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.02.08-19.45.20:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.02.08-19.45.20:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.02.08-19.45.20:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.02.08-19.45.20:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.02.08-19.45.20:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.02.08-19.45.20:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.02.08-19.45.20:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.02.08-19.45.20:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.02.08-19.45.20:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.02.08-19.45.20:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.02.08-19.45.20:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.02.08-19.45.20:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.02.08-19.45.20:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/SM_Door.uasset"
+[2018.02.08-19.45.20:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.02.08-19.45.20:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.02.08-19.45.20:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.02.08-19.45.20:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.02.08-19.45.20:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.02.08-19.45.20:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.02.08-19.45.20:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.02.08-19.45.20:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.02.08-19.45.20:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.02.08-19.45.20:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.02.08-19.45.20:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.02.08-19.45.20:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.02.08-19.45.20:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.02.08-19.45.20:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.02.08-19.45.20:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.02.08-19.45.20:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.02.08-19.45.20:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.02.08-19.45.20:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.02.08-19.45.20:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.02.08-19.45.20:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.02.08-19.45.20:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.02.08-19.45.20:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.02.08-19.45.20:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.02.08-19.45.20:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.02.08-19.45.20:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.02.08-19.45.20:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.02.08-19.45.20:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.02.08-19.45.20:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.02.08-19.45.20:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.02.08-19.45.20:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.02.08-19.45.20:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.02.08-19.45.20:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.02.08-19.45.20:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.02.08-19.45.20:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.02.08-19.45.20:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.02.08-19.45.20:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.02.08-19.45.20:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.02.08-19.45.20:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.02.08-19.45.20:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.02.08-19.45.20:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.02.08-19.45.20:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.02.08-19.45.20:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.02.08-19.45.21:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.02.08-19.45.21:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.02.08-19.45.21:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.02.08-19.45.21:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.02.08-19.45.21:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.02.08-19.45.21:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.02.08-19.45.21:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.02.08-19.45.21:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.02.08-19.45.21:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.02.08-19.45.21:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.02.08-19.45.21:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.02.08-19.45.21:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.02.08-19.45.21:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.02.08-19.45.21:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.02.08-19.45.21:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.02.08-19.45.21:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.02.08-19.45.21:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.02.08-19.45.21:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.02.08-19.45.21:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.02.08-19.45.21:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.02.08-19.45.21:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.02.08-19.45.21:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.02.08-19.45.21:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.02.08-19.45.21:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.02.08-19.45.21:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.02.08-19.45.21:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.02.08-19.45.21:464][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.02.08-19.45.21:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.02.08-19.45.21:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.02.08-19.45.21:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.02.08-19.45.21:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.02.08-19.45.21:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.02.08-19.45.21:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.02.08-19.45.21:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.02.08-19.45.21:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.02.08-19.45.21:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.02.08-19.45.21:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.02.08-19.45.21:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.02.08-19.45.21:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.02.08-19.45.21:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.02.08-19.45.21:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.02.08-19.45.21:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.02.08-19.45.21:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.02.08-19.45.21:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.02.08-19.45.21:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.02.08-19.45.21:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.02.08-19.45.21:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.02.08-19.45.21:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.02.08-19.45.21:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.02.08-19.45.21:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.02.08-19.45.21:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.02.08-19.45.21:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.02.08-19.45.21:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.02.08-19.45.21:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.02.08-19.45.21:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.02.08-19.45.22:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.02.08-19.45.22:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.02.08-19.45.22:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.02.08-19.45.22:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.02.08-19.45.22:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.02.08-19.45.22:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.02.08-19.45.22:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.02.08-19.45.22:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.02.08-19.45.22:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.02.08-19.45.22:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.02.08-19.45.22:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.02.08-19.45.22:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.02.08-19.45.22:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.02.08-19.45.22:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.02.08-19.45.22:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.02.08-19.45.22:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.02.08-19.45.22:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.02.08-19.45.22:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.02.08-19.45.22:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.02.08-19.45.22:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.02.08-19.45.22:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.02.08-19.45.22:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.02.08-19.45.22:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.02.08-19.45.22:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.02.08-19.45.22:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.02.08-19.45.22:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.02.08-19.45.22:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.02.08-19.45.22:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.02.08-19.45.22:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.02.08-19.45.22:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.02.08-19.45.22:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.02.08-19.45.22:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.02.08-19.45.22:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.02.08-19.45.22:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.02.08-19.45.22:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.02.08-19.45.22:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.02.08-19.45.22:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.02.08-19.45.22:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.02.08-19.45.22:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.02.08-19.45.22:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.02.08-19.45.22:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.02.08-19.45.22:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.02.08-19.45.22:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.02.08-19.45.22:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.02.08-19.45.22:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.02.08-19.45.22:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.02.08-19.45.22:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.02.08-19.45.22:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.02.08-19.45.22:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.02.08-19.45.22:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Projects/UECollisions/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.02.08-19.45.23:081][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 9 NumSamples 1 (Frame:1).
+[2018.02.08-19.45.23:198][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../Projects/UECollisions/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2018.02.08-19.45.23:243][  0]LogSavePackage: Save=28.87ms
+[2018.02.08-19.45.23:243][  0]LogSavePackage: Moving '../../../../../Projects/UECollisions/Saved/Floor_400x400BB7F382F49BCF8C1584D32BAE3964734.tmp' to '../../../../../Projects/UECollisions/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.02.08-19.45.23:255][  0]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/UECollisions/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.02.08-19.45.23:255][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.02.08-19.45.23:265][  0]Cmd: MAP LOAD FILE="../../../../../Projects/UECollisions/Content/VehicleCPP/Maps/VehicleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.08-19.45.23:265][  0]LightingResults: New page: Diseñar la iluminación
+[2018.02.08-19.45.23:382][  0]MapCheck: New page: Revisión del mapa
+[2018.02.08-19.45.23:382][  0]LightingResults: New page: Diseñar la iluminación
+[2018.02.08-19.45.23:896][  0]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2018.02.08-19.45.23:896][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2018.02.08-19.45.23:896][  0]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2018.02.08-19.45.23:896][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2018.02.08-19.45.23:910][  0]LogMaterial: Missing cached shader map for material M_Template_Master, compiling. 
+[2018.02.08-19.45.24:164][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2018.02.08-19.45.24:164][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2018.02.08-19.45.24:164][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2018.02.08-19.45.24:164][  0]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.02.08-19.45.28:188][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2018.02.08-19.45.28:188][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2018.02.08-19.45.28:188][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2018.02.08-19.45.28:188][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2018.02.08-19.45.28:188][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2018.02.08-19.45.28:188][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2018.02.08-19.45.28:188][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2018.02.08-19.45.28:188][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2018.02.08-19.45.28:188][  0]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 512X256)
+[2018.02.08-19.45.28:188][  0]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 512X256)
+[2018.02.08-19.45.28:188][  0]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 64X32)
+[2018.02.08-19.45.28:188][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 2048X1024)
+[2018.02.08-19.45.28:189][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 2048X1024)
+[2018.02.08-19.45.28:189][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2018.02.08-19.45.28:189][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 1024X512)
+[2018.02.08-19.45.28:189][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X128)
+[2018.02.08-19.45.28:189][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 64X32)
+[2018.02.08-19.45.28:545][  0]LogMaterial: Missing cached shader map for material BaseMaterial, compiling. 
+[2018.02.08-19.45.28:979][  0]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.02.08-19.45.29:048][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.08-19.45.29:077][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.08-19.45.29:205][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 128,683ms to complete.
+[2018.02.08-19.45.29:206][  0]LogFileHelpers: Loading map 'VehicleExampleMap' took 5.941
+[2018.02.08-19.45.29:287][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.08-19.45.29:486][  0]LogCollectionManager: Loaded 0 collections in 0.004603 seconds
+[2018.02.08-19.45.29:649][  0]LogFileCache: Scanning file cache for directory 'C:/Projects/UECollisions/Saved/Collections/' took 0.01s
+[2018.02.08-19.45.29:649][  0]LogFileCache: Scanning file cache for directory 'C:/Projects/UECollisions/Content/Developers/Palcraft/Collections/' took 0.01s
+[2018.02.08-19.45.29:649][  0]LogFileCache: Scanning file cache for directory 'C:/Projects/UECollisions/Content/Collections/' took 0.01s
+[2018.02.08-19.45.29:649][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.08-19.45.29:680][  0]LogContentBrowser: Native class hierarchy populated in 0.0307 seconds. Added 2370 classes and 524 folders.
+[2018.02.08-19.45.29:867][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2018.02.08-19.45.29:962][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2018.02.08-19.45.30:079][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0016 seconds. Added 1 classes and 2 folders.
+[2018.02.08-19.45.30:176][  0]LogSlate: Took 0.000352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.08-19.45.30:180][  0]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.08-19.45.30:193][  0]LogSlate: Took 0.000567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.08-19.45.30:291][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2018.02.08-19.45.30:347][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 9 NumSamples 1 (Frame:1).
+[2018.02.08-19.45.30:414][  0]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.08-19.45.37:230][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2018.02.08-19.45.37:230][  0]LogLoad: (Engine Initialization) Total time: 58.00 seconds
+[2018.02.08-19.45.37:230][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.08-19.45.37:230][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.08-19.45.37:278][  0]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.08-19.45.37:983][  0]LogSavePackage: Save=470.54ms
+[2018.02.08-19.45.37:983][  0]LogSavePackage: Moving '../../../../../Projects/UECollisions/Saved/VehicleExampleMap91B7C082434C7F6BCC4D9D9FBF629F3A.tmp' to '../../../../../Projects/UECollisions/Content/VehicleCPP/Maps/VehicleExampleMap.umap'
+[2018.02.08-19.45.37:990][  0]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/UECollisions/Content/VehicleCPP/Maps/VehicleExampleMap.umap
+[2018.02.08-19.45.38:036][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VehicleCPP/Maps/VehicleExampleMap_BuiltData" FILE="../../../../../Projects/UECollisions/Content/VehicleCPP/Maps/VehicleExampleMap_BuiltData.uasset" SILENT=true
+[2018.02.08-19.45.39:215][  0]LogSlate: Took 0.000945 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.08-19.45.40:151][  0]LogSavePackage: Save=2084.18ms
+[2018.02.08-19.45.40:151][  0]LogSavePackage: Moving '../../../../../Projects/UECollisions/Saved/VehicleExampleMap_BuiltDataF71813384C9F45A6FCCF9DAEEE1E03CA.tmp' to '../../../../../Projects/UECollisions/Content/VehicleCPP/Maps/VehicleExampleMap_BuiltData.uasset'
+[2018.02.08-19.45.40:156][  0]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/UECollisions/Content/VehicleCPP/Maps/VehicleExampleMap_BuiltData.uasset
+[2018.02.08-19.45.40:164][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.02.08-19.45.40:164][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2018.02.08-19.45.40:164][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2018.02.08-19.45.40:164][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2018.02.08-19.45.40:164][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2018.02.08-19.45.40:193][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.02.08-19.45.40:641][  2]LogAssetRegistry: Asset discovery search completed in 48.6198 seconds
+[2018.02.08-19.45.40:645][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.08-19.45.40:645][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000114 seconds (updated 0 objects)
+[2018.02.08-19.46.34:101][292]LogUObjectGlobals: Warning: Error al encontrar el objeto 'Object Ninguno.ActorDetails'
+[2018.02.08-19.46.57:611][509]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.08-19.46.57:737][509]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.46.57:738][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-19.46.57:742][509]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (8/2/2018 21:46:57)
+[2018.02.08-19.46.57:742][509]LogPlayLevel: Creating play world package: /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.02.08-19.46.57:774][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031701s)
+[2018.02.08-19.46.57:775][509]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.02.08-19.46.57:776][509]LogPlayLevel: PIE: World Init took: (0.001420s)
+[2018.02.08-19.46.57:776][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.033848s)
+[2018.02.08-19.46.57:807][509]LogInit: XAudio2 using '24EA53 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.08-19.46.57:813][509]LogInit: FAudioDevice initialized.
+[2018.02.08-19.46.57:863][509]LogLoad: Game class is 'UECollisionsGameMode'
+[2018.02.08-19.46.57:879][509]LogWorld: Bringing World /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.02.08-20.46.57
+[2018.02.08-19.46.57:881][509]LogWorld: Bringing up level for play took: 0.007000
+[2018.02.08-19.46.57:956][509]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 11 classes and 0 folders.
+[2018.02.08-19.46.57:958][509]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap -0,015
+[2018.02.08-19.46.57:959][509]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.47.36:895][842]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.47.36:933][842]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.47.38:710][946]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.02.08-19.47.38:719][946]Candidate modules for hot reload:
+[2018.02.08-19.47.38:719][946]  UECollisions
+[2018.02.08-19.47.38:719][946]Launching UnrealBuildTool... [C:/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe UECollisions -ModuleWithSuffix UECollisions 1860 Win64 Development -editorrecompile -canskiplink "C:/Projects/UECollisions/UECollisions.uproject" ]
+[2018.02.08-19.47.38:723][946]Warning: Starting HotReload took  0.0s.
+[2018.02.08-19.47.50:775][589]CompilerResultsLog: New page: Compilación - 8/2/2018 21:47:50
+[2018.02.08-19.47.50:776][589]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.02.08-19.47.50:776][589]CompilerResultsLog: Creating makefile for hot reloading UECollisions (modules to compile have changed)
+[2018.02.08-19.47.50:776][589]CompilerResultsLog: Compiling game modules for hot reload
+[2018.02.08-19.47.50:776][589]CompilerResultsLog: Target is up to date
+[2018.02.08-19.47.50:776][589]CompilerResultsLog: Total build time: 11,67 seconds (NoActionsToExecute executor: 0,01 seconds)
+[2018.02.08-19.47.50:776][589]LogMainFrame: MainFrame: Module compiling took 12.066 seconds
+[2018.02.08-19.47.50:818][589]LogContentBrowser: Native class hierarchy populated in 0.0166 seconds. Added 2372 classes and 528 folders.
+[2018.02.08-19.47.50:821][589]Display: HotReload took 12.1s.
+[2018.02.08-19.48.01:855][249]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.48.01:855][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-19.48.01:855][249]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (8/2/2018 21:48:01)
+[2018.02.08-19.48.01:855][249]LogPlayLevel: Creating play world package: /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.02.08-19.48.01:884][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028993s)
+[2018.02.08-19.48.01:886][249]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.02.08-19.48.01:886][249]LogPlayLevel: PIE: World Init took: (0.001673s)
+[2018.02.08-19.48.01:886][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.031276s)
+[2018.02.08-19.48.01:910][249]LogInit: XAudio2 using '24EA53 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.08-19.48.01:916][249]LogInit: FAudioDevice initialized.
+[2018.02.08-19.48.02:014][249]LogLoad: Game class is 'UECollisionsGameMode'
+[2018.02.08-19.48.02:021][249]LogWorld: Bringing World /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.02.08-20.48.02
+[2018.02.08-19.48.02:022][249]LogWorld: Bringing up level for play took: 0.004447
+[2018.02.08-19.48.02:028][249]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap 0,056
+[2018.02.08-19.48.02:029][249]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.48.12:541][875]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.48.12:592][875]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.48.58:653][332]LogEditorViewport: Clicking on Actor (LMB): UECollisionsPawn (TP_VehiclePawn)
+[2018.02.08-19.49.09:643][973]LogEditorViewport: Clicking on Actor (context menu): UECollisionsPawn (TP_VehiclePawn)
+[2018.02.08-19.49.16:743][385]Cmd: DUPLICATE
+[2018.02.08-19.49.16:743][385]Cmd: ACTOR DUPLICATE
+[2018.02.08-19.49.29:241][110]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-19.49.29:257][110]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.49.29:258][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-19.49.29:258][110]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (8/2/2018 21:49:29)
+[2018.02.08-19.49.29:258][110]LogPlayLevel: Creating play world package: /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.02.08-19.49.29:292][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033946s)
+[2018.02.08-19.49.29:293][110]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.02.08-19.49.29:293][110]LogPlayLevel: PIE: World Init took: (0.001337s)
+[2018.02.08-19.49.29:294][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.035809s)
+[2018.02.08-19.49.29:351][110]LogInit: XAudio2 using '24EA53 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.08-19.49.29:358][110]LogInit: FAudioDevice initialized.
+[2018.02.08-19.49.29:552][110]LogLoad: Game class is 'UECollisionsGameMode'
+[2018.02.08-19.49.29:562][110]LogWorld: Bringing World /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.02.08-20.49.29
+[2018.02.08-19.49.29:563][110]LogWorld: Bringing up level for play took: 0.007235
+[2018.02.08-19.49.29:570][110]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap -0,403
+[2018.02.08-19.49.29:570][110]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.49.37:594][570]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.49.37:636][570]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.49.41:758][815]LogEditorViewport: Clicking on Actor (LMB): UECollisionsPawn (TP_VehiclePawn)
+[2018.02.08-19.49.42:746][869]LogEditorViewport: Clicking on Actor (context menu): UECollisionsPawn (TP_VehiclePawn)
+[2018.02.08-19.49.52:885][463]LogEditorViewport: Clicking on Actor (context menu): UECollisionsPawn (TP_VehiclePawn2)
+[2018.02.08-19.50.04:156][125]Cmd: TRANSACTION UNDO
+[2018.02.08-19.50.04:156][125]LogEditorTransaction: Undo Move Actors
+[2018.02.08-19.50.04:172][125]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.08-19.50.16:928][851]Cmd: TRANSACTION UNDO
+[2018.02.08-19.50.16:928][851]LogEditorTransaction: Undo Pinchar en los actores (menú contextual)
+[2018.02.08-19.50.17:715][891]Cmd: TRANSACTION UNDO
+[2018.02.08-19.50.17:715][891]LogEditorTransaction: Undo Pinchar en los actores (menú contextual)
+[2018.02.08-19.50.18:161][917]Cmd: TRANSACTION UNDO
+[2018.02.08-19.50.18:161][917]LogEditorTransaction: Undo Pinchar en los actores
+[2018.02.08-19.50.18:701][947]Cmd: TRANSACTION UNDO
+[2018.02.08-19.50.18:701][947]LogEditorTransaction: Undo Move Actors
+[2018.02.08-19.50.19:176][975]Cmd: TRANSACTION UNDO
+[2018.02.08-19.50.19:176][975]LogEditorTransaction: Undo Move Actors
+[2018.02.08-19.50.20:381][ 47]Cmd: TRANSACTION UNDO
+[2018.02.08-19.50.20:381][ 47]LogEditorTransaction: Undo Move Actors
+[2018.02.08-19.50.21:050][ 87]Cmd: TRANSACTION UNDO
+[2018.02.08-19.50.21:050][ 87]LogEditorTransaction: Undo Duplicar actores
+[2018.02.08-19.50.22:019][140]Cmd: TRANSACTION UNDO
+[2018.02.08-19.50.22:019][140]LogEditorTransaction: Undo Pinchar en los actores (menú contextual)
+[2018.02.08-19.50.22:328][158]Cmd: TRANSACTION UNDO
+[2018.02.08-19.50.22:328][158]LogEditorTransaction: Undo Pinchar en los actores
+[2018.02.08-19.51.33:683][164]LogHotReload: New module detected: UE4Editor-UECollisions-1977.dll
+[2018.02.08-19.51.34:850][222]LogHotReload: Starting Hot-Reload from IDE
+[2018.02.08-19.51.35:018][222]LogHotReload: Re-instancing UECollisionsHud after hot-reload.
+[2018.02.08-19.51.35:122][222]LogHotReload: Re-instancing UECollisionsWheelFront after hot-reload.
+[2018.02.08-19.51.35:214][222]LogContentBrowser: Native class hierarchy updated for 'UECollisions' in 0.0011 seconds. Added 5 classes and 2 folders.
+[2018.02.08-19.51.35:216][222]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.02.08-19.51.35:331][222]LogContentBrowser: Native class hierarchy populated in 0.0158 seconds. Added 2372 classes and 528 folders.
+[2018.02.08-19.51.35:339][222]Display: HotReload took  0.5s.
+[2018.02.08-19.51.46:549][883]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-19.51.46:573][883]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.51.46:573][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-19.51.46:573][883]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (8/2/2018 21:51:46)
+[2018.02.08-19.51.46:573][883]LogPlayLevel: Creating play world package: /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.02.08-19.51.46:600][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027138s)
+[2018.02.08-19.51.46:602][883]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.02.08-19.51.46:602][883]LogPlayLevel: PIE: World Init took: (0.001580s)
+[2018.02.08-19.51.46:602][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.029260s)
+[2018.02.08-19.51.46:628][883]LogInit: XAudio2 using '24EA53 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.08-19.51.46:635][883]LogInit: FAudioDevice initialized.
+[2018.02.08-19.51.46:737][883]LogLoad: Game class is 'UECollisionsGameMode'
+[2018.02.08-19.51.46:746][883]LogWorld: Bringing World /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.02.08-20.51.46
+[2018.02.08-19.51.46:747][883]LogWorld: Bringing up level for play took: 0.006572
+[2018.02.08-19.51.46:757][883]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap 0,785
+[2018.02.08-19.51.46:758][883]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.51.53:391][236]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.51.53:436][236]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.55.21:042][131]LogEditorViewport: Clicking on Actor (LMB): UECollisionsPawn (TP_VehiclePawn)
+[2018.02.08-19.56.11:094][ 82]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.02.08-19.56.35:970][567]LogEditorViewport: Clicking on Actor (LMB): UECollisionsPawn (TP_VehiclePawn)
+[2018.02.08-19.56.59:910][975]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.08-19.57.02:419][976]LogSavePackage: Save=389.46ms
+[2018.02.08-19.57.02:419][976]LogSavePackage: Moving '../../../../../Projects/UECollisions/Saved/VehicleExampleMap_Auto1AE00A3C045B0374DBEE35FB6D54BDC1C.tmp' to '../../../../../Projects/UECollisions/Saved/Autosaves/Game/VehicleCPP/Maps/VehicleExampleMap_Auto1.umap'
+[2018.02.08-19.57.02:422][976]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/UECollisions/Saved/Autosaves/Game/VehicleCPP/Maps/VehicleExampleMap_Auto1.umap
+[2018.02.08-19.57.02:430][976]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VehicleCPP/Maps/VehicleExampleMap' took 0.457
+[2018.02.08-19.57.02:431][976]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.457
+[2018.02.08-19.57.02:436][976]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Vehicle/Sedan/Sedan_SkelMesh] ([1] browsable assets)...
+[2018.02.08-19.57.02:482][976]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Vehicle/Sedan/Sedan_SkelMesh.Sedan_SkelMesh]
+[2018.02.08-19.57.02:482][976]OBJ SavePackage: Finished generating thumbnails for package [/Game/Vehicle/Sedan/Sedan_SkelMesh]
+[2018.02.08-19.57.02:482][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Vehicle/Sedan/Sedan_SkelMesh" FILE="../../../../../Projects/UECollisions/Saved/Autosaves/Game/Vehicle/Sedan/Sedan_SkelMesh_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.02.08-19.57.02:613][976]LogSavePackage: Save=108.97ms
+[2018.02.08-19.57.02:613][976]LogSavePackage: Moving '../../../../../Projects/UECollisions/Saved/Sedan_SkelMesh_Auto1B337C8774A0FD29F7A762DBB8BFED939.tmp' to '../../../../../Projects/UECollisions/Saved/Autosaves/Game/Vehicle/Sedan/Sedan_SkelMesh_Auto1.uasset'
+[2018.02.08-19.57.02:615][976]LogSavePackage: Display: Finished SavePackage ../../../../../Projects/UECollisions/Saved/Autosaves/Game/Vehicle/Sedan/Sedan_SkelMesh_Auto1.uasset
+[2018.02.08-19.57.02:615][976]LogFileHelpers: Auto-saving content packages took 0.183
+[2018.02.08-19.57.05:381][984]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.08-19.57.05:713][985]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.08-19.57.06:047][986]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.08-19.57.06:379][987]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.08-19.57.08:082][991]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.08-19.57.08:801][992]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.08-19.57.08:823][993]LogVSAccessor: Warning: Couldn't get Visual Studio COM object
+[2018.02.08-19.57.08:823][993]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.02.08-19.57.08:830][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:830][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:830][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:830][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:830][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:831][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:831][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:831][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:831][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:831][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:831][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:831][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:832][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:832][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:832][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:832][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:832][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:832][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:832][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:833][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:833][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:833][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:833][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:833][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:833][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:833][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:833][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:833][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:833][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:834][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:834][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:834][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:834][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:834][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:834][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:834][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:834][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:834][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:834][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:834][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:835][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:835][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:835][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:835][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:835][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:835][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:835][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:835][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:835][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:835][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:835][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:836][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:836][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:836][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:836][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:836][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:836][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:836][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:836][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:836][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:836][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:836][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:837][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:837][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:837][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:837][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:837][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:837][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:837][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:837][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:837][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:837][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:838][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:838][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:838][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:838][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:838][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:838][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:838][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:838][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:838][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:838][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:839][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:839][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:839][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:839][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:839][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:839][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:839][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:839][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:839][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:840][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:840][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:843][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:843][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:843][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:844][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:845][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:848][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:848][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:848][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:848][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:861][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:861][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:879][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:881][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:881][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:886][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:886][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:914][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:922][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:922][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:922][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:923][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:924][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:924][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:924][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:925][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:925][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.08:937][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.57.09:047][993]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.08-19.58.51:800][606]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-19.58.51:812][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.58.51:812][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-19.58.51:813][606]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (8/2/2018 21:58:51)
+[2018.02.08-19.58.51:813][606]LogPlayLevel: Creating play world package: /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.02.08-19.58.51:839][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026084s)
+[2018.02.08-19.58.51:840][606]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.02.08-19.58.51:841][606]LogPlayLevel: PIE: World Init took: (0.001332s)
+[2018.02.08-19.58.51:841][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.027866s)
+[2018.02.08-19.58.51:902][606]LogInit: XAudio2 using '24EA53 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.08-19.58.51:908][606]LogInit: FAudioDevice initialized.
+[2018.02.08-19.58.52:018][606]LogLoad: Game class is 'UECollisionsGameMode'
+[2018.02.08-19.58.52:025][606]LogWorld: Bringing World /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.02.08-20.58.52
+[2018.02.08-19.58.52:026][606]LogWorld: Bringing up level for play took: 0.004087
+[2018.02.08-19.58.52:033][606]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap 0,06
+[2018.02.08-19.58.52:033][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.58.57:083][810]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.58.57:126][810]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.59.05:770][ 21]LogHotReload: New module detected: UE4Editor-UECollisions-8722.dll
+[2018.02.08-19.59.06:786][ 25]LogHotReload: Starting Hot-Reload from IDE
+[2018.02.08-19.59.06:912][ 25]LogHotReload: Re-instancing UECollisionsWheelFront after hot-reload.
+[2018.02.08-19.59.06:997][ 25]LogContentBrowser: Native class hierarchy updated for 'UECollisions' in 0.0011 seconds. Added 5 classes and 2 folders.
+[2018.02.08-19.59.06:999][ 25]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.02.08-19.59.07:067][ 25]LogContentBrowser: Native class hierarchy populated in 0.0145 seconds. Added 2372 classes and 528 folders.
+[2018.02.08-19.59.07:074][ 25]Display: HotReload took  0.3s.
+[2018.02.08-19.59.19:515][708]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-19.59.19:530][708]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.59.19:530][708]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-19.59.19:531][708]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (8/2/2018 21:59:19)
+[2018.02.08-19.59.19:531][708]LogPlayLevel: Creating play world package: /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.02.08-19.59.19:556][708]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024460s)
+[2018.02.08-19.59.19:557][708]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.02.08-19.59.19:557][708]LogPlayLevel: PIE: World Init took: (0.001369s)
+[2018.02.08-19.59.19:557][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.026379s)
+[2018.02.08-19.59.19:578][708]LogInit: XAudio2 using '24EA53 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.08-19.59.19:584][708]LogInit: FAudioDevice initialized.
+[2018.02.08-19.59.19:693][708]LogLoad: Game class is 'UECollisionsGameMode'
+[2018.02.08-19.59.19:702][708]LogWorld: Bringing World /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.02.08-20.59.19
+[2018.02.08-19.59.19:703][708]LogWorld: Bringing up level for play took: 0.003975
+[2018.02.08-19.59.19:710][708]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap -0,263
+[2018.02.08-19.59.19:710][708]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.59.36:145][690]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-19.59.36:188][690]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-20.00.03:204][973]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-20.00.03:213][973]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-20.00.03:213][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-20.00.03:213][973]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (8/2/2018 22:00:03)
+[2018.02.08-20.00.03:214][973]LogPlayLevel: Creating play world package: /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.02.08-20.00.03:239][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025534s)
+[2018.02.08-20.00.03:240][973]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.02.08-20.00.03:241][973]LogPlayLevel: PIE: World Init took: (0.001601s)
+[2018.02.08-20.00.03:241][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.027543s)
+[2018.02.08-20.00.03:265][973]LogInit: XAudio2 using '24EA53 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.08-20.00.03:271][973]LogInit: FAudioDevice initialized.
+[2018.02.08-20.00.03:376][973]LogLoad: Game class is 'UECollisionsGameMode'
+[2018.02.08-20.00.03:384][973]LogWorld: Bringing World /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.02.08-21.00.03
+[2018.02.08-20.00.03:385][973]LogWorld: Bringing up level for play took: 0.005080
+[2018.02.08-20.00.03:391][973]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap -0,581
+[2018.02.08-20.00.03:392][973]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-20.00.19:892][951]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-20.00.19:940][951]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-20.00.47:377][186]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-20.00.47:386][186]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-20.00.47:386][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-20.00.47:386][186]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (8/2/2018 22:00:47)
+[2018.02.08-20.00.47:386][186]LogPlayLevel: Creating play world package: /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.02.08-20.00.47:410][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023415s)
+[2018.02.08-20.00.47:411][186]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.02.08-20.00.47:412][186]LogPlayLevel: PIE: World Init took: (0.001332s)
+[2018.02.08-20.00.47:412][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.025219s)
+[2018.02.08-20.00.47:433][186]LogInit: XAudio2 using '24EA53 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.08-20.00.47:440][186]LogInit: FAudioDevice initialized.
+[2018.02.08-20.00.47:537][186]LogLoad: Game class is 'UECollisionsGameMode'
+[2018.02.08-20.00.47:547][186]LogWorld: Bringing World /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.02.08-21.00.47
+[2018.02.08-20.00.47:547][186]LogWorld: Bringing up level for play took: 0.004642
+[2018.02.08-20.00.47:554][186]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap -0,418
+[2018.02.08-20.00.47:555][186]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-20.01.05:792][231]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-20.01.05:836][231]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-20.01.53:613][675]LogHotReload: New module detected: UE4Editor-UECollisions-4296.dll
+[2018.02.08-20.01.54:635][679]LogHotReload: Starting Hot-Reload from IDE
+[2018.02.08-20.01.54:783][679]LogContentBrowser: Native class hierarchy updated for 'UECollisions' in 0.0011 seconds. Added 5 classes and 2 folders.
+[2018.02.08-20.01.54:785][679]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.02.08-20.01.54:856][679]LogContentBrowser: Native class hierarchy populated in 0.0146 seconds. Added 2372 classes and 528 folders.
+[2018.02.08-20.01.54:864][679]Display: HotReload took  0.2s.
+[2018.02.08-20.02.07:813][803]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-20.02.07:831][803]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-20.02.07:831][803]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-20.02.07:832][803]PIE: New page: Sesión PIE (reproducción en el editor): VehicleExampleMap (8/2/2018 22:02:07)
+[2018.02.08-20.02.07:832][803]LogPlayLevel: Creating play world package: /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap
+[2018.02.08-20.02.07:858][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025733s)
+[2018.02.08-20.02.07:859][803]LogAIModule: Creating AISystem for world VehicleExampleMap
+[2018.02.08-20.02.07:859][803]LogPlayLevel: PIE: World Init took: (0.001543s)
+[2018.02.08-20.02.07:860][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap to /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap (0.027792s)
+[2018.02.08-20.02.07:883][803]LogInit: XAudio2 using '24EA53 (Intel(R) Display Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.08-20.02.07:891][803]LogInit: FAudioDevice initialized.
+[2018.02.08-20.02.08:077][803]LogLoad: Game class is 'UECollisionsGameMode'
+[2018.02.08-20.02.08:085][803]LogWorld: Bringing World /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap.VehicleExampleMap up for play (max tick rate 60) at 2018.02.08-21.02.08
+[2018.02.08-20.02.08:085][803]LogWorld: Bringing up level for play took: 0.004416
+[2018.02.08-20.02.08:093][803]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/VehicleCPP/Maps/UEDPIE_0_VehicleExampleMap 0,12
+[2018.02.08-20.02.08:093][803]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-20.02.20:280][501]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-20.02.20:325][501]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap' with GeneratedClass '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap_C' with ClassGeneratedBy '/Game/VehicleCPP/Maps/VehicleExampleMap.VehicleExampleMap:PersistentLevel.VehicleExampleMap'
+[2018.02.08-20.02.38:071][784]Cmd: QUIT_EDITOR
+[2018.02.08-20.02.38:378][784]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.08-20.02.38:397][784]LogExit: Preparing to exit.
+[2018.02.08-20.02.39:090][784]LogDirectoryWatcher: A directory notification for 'C:/Projects/UECollisions/Content/' was aborted.
+[2018.02.08-20.02.39:124][784]LogExit: Editor shut down
+[2018.02.08-20.02.39:130][784]LogExit: Transaction tracking system shut down
+[2018.02.08-20.02.39:245][784]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.08-20.02.39:245][784]LogDirectoryWatcher: A directory notification for '../../../../../Projects/UECollisions/Content/' was aborted.
+[2018.02.08-20.02.39:245][784]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.08-20.02.39:245][784]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.08-20.02.39:245][784]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.08-20.02.39:245][784]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.08-20.02.39:245][784]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.08-20.02.39:324][784]LogExit: Object subsystem successfully closed.
+[2018.02.08-20.02.39:345][784]LogD3D11RHI: Shutdown
+[2018.02.08-20.02.39:345][784]LogD3D11RHI: CleanupD3DDevice
+[2018.02.08-20.02.39:348][784]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.08-20.02.39:375][784]LogModuleManager: Shutting down and abandoning module UECollisions (557)
+[2018.02.08-20.02.39:376][784]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.02.08-20.02.39:376][784]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2018.02.08-20.02.39:376][784]LogModuleManager: Shutting down and abandoning module DesktopPlatform (550)
+[2018.02.08-20.02.39:376][784]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.02.08-20.02.39:376][784]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.02.08-20.02.39:376][784]LogDirectoryWatcher: A directory notification for 'C:/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.08-20.02.39:377][784]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.02.08-20.02.39:377][784]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.02.08-20.02.39:377][784]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.02.08-20.02.39:377][784]LogDirectoryWatcher: A directory notification for 'C:/Projects/UECollisions/Content/Collections/' was aborted.
+[2018.02.08-20.02.39:377][784]LogDirectoryWatcher: A directory notification for 'C:/Projects/UECollisions/Content/Developers/Palcraft/Collections/' was aborted.
+[2018.02.08-20.02.39:377][784]LogDirectoryWatcher: A directory notification for 'C:/Projects/UECollisions/Saved/Collections/' was aborted.
+[2018.02.08-20.02.39:377][784]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2018.02.08-20.02.39:377][784]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2018.02.08-20.02.39:377][784]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2018.02.08-20.02.39:378][784]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2018.02.08-20.02.39:379][784]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2018.02.08-20.02.39:379][784]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2018.02.08-20.02.39:379][784]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2018.02.08-20.02.39:379][784]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2018.02.08-20.02.39:379][784]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2018.02.08-20.02.39:379][784]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2018.02.08-20.02.39:379][784]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2018.02.08-20.02.39:379][784]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2018.02.08-20.02.39:379][784]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2018.02.08-20.02.39:379][784]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2018.02.08-20.02.39:379][784]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2018.02.08-20.02.39:379][784]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2018.02.08-20.02.39:672][784]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2018.02.08-20.02.39:672][784]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2018.02.08-20.02.39:672][784]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2018.02.08-20.02.39:673][784]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2018.02.08-20.02.39:737][784]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2018.02.08-20.02.39:737][784]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2018.02.08-20.02.39:737][784]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2018.02.08-20.02.39:737][784]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2018.02.08-20.02.39:737][784]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2018.02.08-20.02.39:737][784]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2018.02.08-20.02.39:737][784]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2018.02.08-20.02.39:737][784]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2018.02.08-20.02.39:738][784]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2018.02.08-20.02.39:738][784]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2018.02.08-20.02.39:738][784]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2018.02.08-20.02.39:738][784]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2018.02.08-20.02.39:738][784]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2018.02.08-20.02.39:738][784]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2018.02.08-20.02.39:738][784]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2018.02.08-20.02.39:738][784]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2018.02.08-20.02.39:738][784]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2018.02.08-20.02.39:738][784]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2018.02.08-20.02.39:738][784]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2018.02.08-20.02.39:738][784]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2018.02.08-20.02.39:739][784]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2018.02.08-20.02.39:739][784]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2018.02.08-20.02.39:739][784]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2018.02.08-20.02.39:739][784]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2018.02.08-20.02.39:739][784]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2018.02.08-20.02.39:739][784]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2018.02.08-20.02.39:739][784]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2018.02.08-20.02.39:739][784]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2018.02.08-20.02.39:739][784]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2018.02.08-20.02.39:787][784]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2018.02.08-20.02.39:787][784]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module CableComponent (336)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (334)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module AndroidPermission (332)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module RawInput (320)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.02.08-20.02.39:788][784]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.02.08-20.02.39:789][784]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.02.08-20.02.39:789][784]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.02.08-20.02.39:789][784]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.02.08-20.02.39:789][784]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.02.08-20.02.39:789][784]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.02.08-20.02.39:789][784]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.02.08-20.02.39:789][784]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.02.08-20.02.39:789][784]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.02.08-20.02.39:789][784]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.02.08-20.02.39:790][784]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.02.08-20.02.39:790][784]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.02.08-20.02.39:790][784]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.02.08-20.02.39:790][784]LogDirectoryWatcher: A directory notification for 'C:/Projects/UECollisions/Binaries/Win64' was aborted.
+[2018.02.08-20.02.39:791][784]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.08-20.02.39:791][784]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.08-20.02.39:791][784]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.08-20.02.39:791][784]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.08-20.02.39:791][784]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.08-20.02.39:791][784]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.08-20.02.39:791][784]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.08-20.02.39:791][784]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.08-20.02.39:891][784]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.08-20.02.39:992][784]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.08-20.02.39:992][784]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.08-20.02.39:992][784]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.08-20.02.39:992][784]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.08-20.02.39:992][784]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.08-20.02.39:992][784]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.08-20.02.39:993][784]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.08-20.02.39:993][784]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.08-20.02.39:993][784]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.08-20.02.39:993][784]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.08-20.02.39:996][784]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.08-20.02.39:996][784]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.08-20.02.39:996][784]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.08-20.02.39:996][784]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.08-20.02.39:996][784]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.08-20.02.39:996][784]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.08-20.02.40:002][784]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.08-20.02.40:002][784]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.08-20.02.40:002][784]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.08-20.02.40:002][784]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.08-20.02.40:002][784]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.08-20.02.40:002][784]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.08-20.02.40:002][784]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.08-20.02.40:002][784]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.08-20.02.40:003][784]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.08-20.02.40:003][784]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.08-20.02.40:003][784]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.08-20.02.40:003][784]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.08-20.02.40:003][784]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.08-20.02.40:003][784]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.08-20.02.40:003][784]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.08-20.02.40:003][784]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.08-20.02.40:006][784]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.08-20.02.40:006][784]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.08-20.02.40:006][784]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.08-20.02.40:006][784]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.08-20.02.40:006][784]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.08-20.02.40:006][784]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.08-20.02.40:006][784]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.08-20.02.40:006][784]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.08-20.02.40:008][784]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.08-20.02.40:008][784]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.08-20.02.40:008][784]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.08-20.02.40:008][784]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.08-20.02.40:008][784]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.08-20.02.40:008][784]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.08-20.02.40:008][784]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.08-20.02.40:008][784]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.08-20.02.40:008][784]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.08-20.02.40:044][784]LogDerivedDataCache: Shutdown
+[2018.02.08-20.02.40:044][784]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.08-20.02.40:044][784]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.08-20.02.40:044][784]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.08-20.02.40:044][784]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.08-20.02.40:044][784]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.08-20.02.40:045][784]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.08-20.02.40:046][784]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.08-20.02.40:046][784]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.08-20.02.40:046][784]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.08-20.02.40:046][784]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.08-20.02.40:046][784]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.08-20.02.40:046][784]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.08-20.02.40:046][784]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.08-20.02.40:046][784]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.08-20.02.40:046][784]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.08-20.02.40:046][784]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.08-20.02.40:046][784]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.08-20.02.40:046][784]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.08-20.02.40:046][784]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.08-20.02.40:046][784]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.08-20.02.40:046][784]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.08-20.02.40:046][784]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.08-20.02.40:046][784]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.08-20.02.40:046][784]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.08-20.02.40:046][784]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.08-20.02.40:046][784]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF4C9C896-404D-BC22-179C-A283B6F47AAB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=08b5f8ed464b20ec1d64b2afe9defa4a%7Ca28d7a7443304236884f47e5c8fb970a%7C48b00663-1115-4f2f-98cc-7445595f7a5b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.08-20.02.40:061][784]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.08-20.02.40:063][784]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.08-20.02.40:063][784]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.08-20.02.40:063][784]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.08-20.02.40:063][784]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.08-20.02.40:063][784]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.08-20.02.40:063][784]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.08-20.02.40:063][784]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.08-20.02.40:065][784]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.08-20.02.40:065][784]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.08-20.02.40:065][784]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.08-20.02.40:065][784]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.08-20.02.40:065][784]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.08-20.02.40:065][784]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.08-20.02.40:065][784]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.08-20.02.40:065][784]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.08-20.02.40:065][784]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.08-20.02.40:065][784]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.08-20.02.40:065][784]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.08-20.02.40:070][784]LogExit: Exiting.
+[2018.02.08-20.02.40:087][784]Log file closed, 02/08/18 21:02:40

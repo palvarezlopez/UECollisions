@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UECollisions-6342.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\UECollisions.cpp.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\UECollisionsGameMode.cpp.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\UECollisionsHud.cpp.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\UECollisionsPawn.cpp.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\UECollisionsWheelFront.cpp.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\UECollisionsWheelRear.cpp.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\UECollisions.init.gen.cpp.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\UECollisionsGameMode.gen.cpp.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\UECollisionsHud.gen.cpp.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\UECollisionsPawn.gen.cpp.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\UECollisionsWheelFront.gen.cpp.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\UECollisionsWheelRear.gen.cpp.obj"
+"C:\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\PCLaunch.rc.res"
+"C:\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-UECollisions-6342.lib"

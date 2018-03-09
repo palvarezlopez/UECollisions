@@ -1,3 +1,7 @@
+.vs
 *.db
 *.pdb
-.vs
+*.umap
+*.obj
+*.uexp
+*.exe

@@ -1,4 +1,8 @@
-.vs
+/.vs
+/Saved
+/Intermediate/Build/Win64/
+/Intermediate/Build/Unused/
+/Intermediate/Build/ActionHistory.bin
 *.db
 *.pdb
 *.umap
@@ -6,3 +10,5 @@
 *.uexp
 *.exe
 *.pch
+*.log
+

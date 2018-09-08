@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UECollisions-2022.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UECollisionsEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\StaticMeshActorExample.cpp.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\UECollisions.cpp.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\UECollisionsGameModeBase.cpp.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\StaticMeshActorExample.gen.cpp.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\UECollisions.init.gen.cpp.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\UECollisionsGameModeBase.gen.cpp.obj"
+"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\PCLaunch.rc.res"
+/OUT:"C:\Projects\UECollisions\Intermediate\Build\Win64\UE4Editor\Development\UECollisions\UE4Editor-UECollisions-2022.lib"

@@ -3,6 +3,7 @@
 /Intermediate/Build/Win64/
 /Intermediate/Build/Unused/
 /Intermediate/Build/ActionHistory.bin
+/Intermediate/CachedAssetRegistry.bin
 *.db
 *.pdb
 *.umap
